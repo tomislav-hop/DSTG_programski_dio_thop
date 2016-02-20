@@ -1,0 +1,6 @@
+c:\users\tomislav hop\documents\visual studio 2013\Projects\DSTG\DSTG\bin\Debug\DSTG.exe.config
+c:\users\tomislav hop\documents\visual studio 2013\Projects\DSTG\DSTG\bin\Debug\DSTG.exe
+c:\users\tomislav hop\documents\visual studio 2013\Projects\DSTG\DSTG\bin\Debug\DSTG.pdb
+c:\users\tomislav hop\documents\visual studio 2013\Projects\DSTG\DSTG\obj\Debug\DSTG.csprojResolveAssemblyReference.cache
+c:\users\tomislav hop\documents\visual studio 2013\Projects\DSTG\DSTG\obj\Debug\DSTG.exe
+c:\users\tomislav hop\documents\visual studio 2013\Projects\DSTG\DSTG\obj\Debug\DSTG.pdb

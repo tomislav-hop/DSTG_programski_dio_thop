@@ -1,0 +1,3 @@
+Borda_metoda.exe je kompajliran kod za izraèun.
+Datoteka DSTG je projekt exportan iz Visual Studia 2013.
+Program.cs je èisti kod koji je korišten u Visual Studiju 2013.
